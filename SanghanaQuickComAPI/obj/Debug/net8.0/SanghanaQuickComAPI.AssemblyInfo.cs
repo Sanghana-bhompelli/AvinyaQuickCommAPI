@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SanghanaQuickComAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2be18118bedcf0e476a9047d41dec0bb4f0d623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12d4b3eed706228f7c5d3694fc2f993a2b545cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SanghanaQuickComAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SanghanaQuickComAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
