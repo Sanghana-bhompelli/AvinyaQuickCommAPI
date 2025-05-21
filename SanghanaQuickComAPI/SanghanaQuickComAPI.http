@@ -1,0 +1,6 @@
+@SanghanaQuickComAPI_HostAddress = http://localhost:5142
+
+GET {{SanghanaQuickComAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
