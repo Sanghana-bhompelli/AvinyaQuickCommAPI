@@ -1,7 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E504A-16EB-44B3-BB42-1ACC1D551875}|..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\quickcomm.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +21,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanghanaQuickComAPI",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\SanghanaQuickComAPI.csproj",
+              "RelativeDocumentMoniker": "SanghanaQuickComAPI.csproj",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\SanghanaQuickComAPI.csproj",
+              "RelativeToolTip": "SanghanaQuickComAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T06:43:48.783Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\QuickComm.BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\QuickComm.BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:43:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:33:35.178Z",
+              "EditorCaption": ""
             }
           ]
         }
