@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.DBLayer.Models
 {
-    public class ShippersModel
+    public class ShipperModel
     {
         public int ShipperId { get; set; }
         public string? ShipperName { get; set; }

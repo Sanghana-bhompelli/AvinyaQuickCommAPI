@@ -16,8 +16,9 @@ builder.Services.AddDbContext<EcommerceContext>(
        )
 
     );
-builder.Services.AddScoped<IInterfaceentity, Dbclass>();
-builder.Services.AddScoped<Class1>();
+builder.Services.AddScoped < IEcommerceBusiness, EcommereceBusines > ();
+builder.Services.AddScoped<IInterfaceentity,Dbclass> ();
+
 
 var app = builder.Build();
 
@@ -35,3 +36,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+

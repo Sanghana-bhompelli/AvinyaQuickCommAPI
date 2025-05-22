@@ -9,6 +9,15 @@ namespace Entity.DBLayer
 {
     public interface IInterfaceentity
     {
-        public Task<List<CategoryModels>> GetAllCategories();
+        public Task<List<CategoryModel>>GetAllCategories();
+        public Task<List<CustomerModel>>GetAllCustomers();
+        public Task<List<EmployessModel>>GetAllEmployees();
+        public Task<List<OrderDetailModel>>GetAllOrderDetails();
+        public Task<List<OrderModel>>GetAllOrders();
+        public Task<List<ProductModel>>GetAllProducts();
+        public Task<List<ShipperModel>>GetAllShippers();
+        public Task<List<SupplierModel>>GetAllSuppliers();
+
+
     }
 }
