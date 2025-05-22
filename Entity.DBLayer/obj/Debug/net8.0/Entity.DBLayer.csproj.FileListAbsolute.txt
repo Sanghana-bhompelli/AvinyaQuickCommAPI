@@ -1,0 +1,15 @@
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.deps.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.AssemblyInfoInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.AssemblyInfo.cs
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.sourcelink.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\refint\Entity.DBLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\ref\Entity.DBLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.runtimeconfig.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.csproj.AssemblyReference.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.genruntimeconfig.cache

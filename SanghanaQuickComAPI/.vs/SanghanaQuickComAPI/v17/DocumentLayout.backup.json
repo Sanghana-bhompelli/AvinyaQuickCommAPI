@@ -3,15 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2C2E504A-16EB-44B3-BB42-1ACC1D551875}|..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\quickcomm.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E504A-16EB-44B3-BB42-1ACC1D551875}|..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\quickcomm.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:sanghanaquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E504A-16EB-44B3-BB42-1ACC1D551875}|..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\quickcomm.businesslayer\\quickcomm.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\sanghanaquickcomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0EE323-727D-4B27-B8CC-026BB64CD117}|SanghanaQuickComAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\interfaceentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\entity.dblayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\models\\categorymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1B325-B0A7-49FD-BA01-F3B81D8403E5}|..\\Entity.DBLayer\\Entity.DBLayer.csproj|c:\\users\\sangh\\source\\repos\\sanghana-bhompelli\\avinyaquickcommapi\\entity.dblayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,12 +54,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:16:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T09:08:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T09:08:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dbclass.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Dbclass.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\Dbclass.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Dbclass.cs",
+              "RelativeToolTip": "..\\Entity.DBLayer\\Dbclass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:05:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickComm.BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj",
+              "RelativeToolTip": "..\\QuickComm.BusinessLayer\\QuickComm.BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T06:50:57.277Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SanghanaQuickComAPI",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\QuickComm.BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\QuickComm.BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:43:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanghanaQuickComAPI.csproj",
               "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\SanghanaQuickComAPI.csproj",
               "RelativeDocumentMoniker": "SanghanaQuickComAPI.csproj",
               "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\SanghanaQuickComAPI.csproj",
@@ -37,23 +152,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\QuickComm.BusinessLayer\\Class1.cs",
-              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\QuickComm.BusinessLayer\\Class1.cs",
-              "RelativeToolTip": "..\\QuickComm.BusinessLayer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:43:20.221Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CategoryController.cs",
@@ -61,9 +159,74 @@
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\SanghanaQuickComAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T06:33:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\EcommerceContext.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\EcommerceContext.cs",
+              "RelativeToolTip": "..\\Entity.DBLayer\\EcommerceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:58:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "interfaceentity.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\interfaceentity.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\interfaceentity.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\interfaceentity.cs",
+              "RelativeToolTip": "..\\Entity.DBLayer\\interfaceentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:01:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entity.DBLayer",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Entity.DBLayer.csproj",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\Entity.DBLayer.csproj",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Entity.DBLayer.csproj",
+              "RelativeToolTip": "..\\Entity.DBLayer\\Entity.DBLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T08:27:02.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryModels.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Models\\CategoryModels.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\Models\\CategoryModels.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Models\\CategoryModels.cs",
+              "RelativeToolTip": "..\\Entity.DBLayer\\Models\\CategoryModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:59:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DBLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\sangh\\source\\repos\\Sanghana-bhompelli\\AvinyaQuickCommAPI\\Entity.DBLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Entity.DBLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:59:43.835Z",
               "EditorCaption": ""
             }
           ]

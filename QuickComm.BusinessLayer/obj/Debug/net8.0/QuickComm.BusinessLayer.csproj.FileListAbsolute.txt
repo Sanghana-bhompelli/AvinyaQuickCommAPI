@@ -1,0 +1,16 @@
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\bin\Debug\net8.0\QuickComm.BusinessLayer.deps.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\bin\Debug\net8.0\QuickComm.BusinessLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\bin\Debug\net8.0\QuickComm.BusinessLayer.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\bin\Debug\net8.0\Entity.DBLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\bin\Debug\net8.0\Entity.DBLayer.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.AssemblyInfo.cs
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.sourcelink.json
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickCom.A2FC66A3.Up2Date
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\refint\QuickComm.BusinessLayer.dll
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\QuickComm.BusinessLayer.pdb
+C:\Users\sangh\source\repos\Sanghana-bhompelli\AvinyaQuickCommAPI\QuickComm.BusinessLayer\obj\Debug\net8.0\ref\QuickComm.BusinessLayer.dll
